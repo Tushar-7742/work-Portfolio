@@ -1150,11 +1150,7 @@ into engaging visual narratives with a strong sense of aesthetics and market tre
             <div className="relative bg-black/40 backdrop-blur-xl rounded-3xl overflow-hidden border border-white/10">
               {/* Gallery Background Image */}
               <div className="relative h-96 overflow-hidden">
-                <img
-                  data-src="/projects/gallery-bg.png"
-                  alt="Project Gallery Background"
-                  className="lazyload w-full h-full object-cover opacity-30"
-                />
+               
                 <div className="absolute inset-0 bg-gradient-to-r from-pink-500/40 via-rose-500/40 to-orange-500/40"></div>
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent"></div>
 

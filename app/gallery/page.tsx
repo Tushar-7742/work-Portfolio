@@ -241,7 +241,7 @@ export default function GalleryPage() {
                 </span>
               </h1>
               <p className="text-white/80 text-lg max-w-3xl mx-auto mb-6">
-                Explore my comprehensive collection of 20+ creative projects spanning multiple disciplines and
+                Explore my comprehensive collection of 30+ creative projects spanning multiple disciplines and
                 industries.
               </p>
               <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/10 backdrop-blur-sm rounded-full border border-white/20">
