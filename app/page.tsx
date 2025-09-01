@@ -330,17 +330,17 @@ const skills = [
   ]
 
     const certificates = [
-    {
-      name: "Blender Essential: From Beginner to 3D Masterclass",
-      image: "/certificates/blender.png",
-      color: "from-orange-400 to-blue-400",
-      issuer: "Udemy - Learnify IT",
-      year: "2024",
-      description: "Comprehensive 3D modeling and rendering certification",
-      credentialId: "UC-93865d45-80f5-427a-94e7-89410c86042f",
-      validUntil: "Lifetime",
-      skills: ["3D Modeling", "Rendering", "Animation", "Blender"],
-    },
+  {
+    name: "Blender Essential: From Beginner to 3D Masterclass",
+    image: "/photo/certificate-blender.png", // Corrected path
+    color: "from-orange-400 to-blue-400",
+    issuer: "Udemy - Learnify IT",
+    year: "2024",
+    description: "Comprehensive 3D modeling and rendering certification",
+    credentialId: "UC-93865d45-80f5-427a-94e7-89410c86042f",
+    validUntil: "Lifetime",
+    skills: ["3D Modeling", "Rendering", "Animation", "Blender"],
+  },
     {
       name: "UI/UX Design Masterclass with Adobe XD",
       image:"/certificates/Ui.png",
