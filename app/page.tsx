@@ -332,7 +332,7 @@ const skills = [
     const certificates = [
     {
       name: "Blender Essential: From Beginner to 3D Masterclass",
-      image: "/certificates/blender 4.jpg",
+      image: "/certificates/blender 4.png",
       color: "from-orange-400 to-blue-400",
       issuer: "Udemy - Learnify IT",
       year: "2024",
@@ -343,7 +343,7 @@ const skills = [
     },
     {
       name: "UI/UX Design Masterclass with Adobe XD",
-      image:"/certificates/ui ux 6.jpg",
+      image:"/certificates/ui ux 6.png",
       color: "from-blue-400 to-indigo-400",
       issuer: "Udemy - James Joab Soren",
       year: "2024",
@@ -354,7 +354,7 @@ const skills = [
     },
     {
       name: "Professional Diploma in Social Media Marketing",
-      image: "/certificates/social Media Marketing 5.jpg",
+      image: "/certificates/social Media Marketing 5.png",
       color: "from-pink-400 to-purple-400",
       issuer: "Udemy - MTF Institute",
       year: "2025",
@@ -365,7 +365,7 @@ const skills = [
     },
     {
       name: "AI-Powered Graphic Design: Mastering Figma",
-      image: "/certificates/AI 3.jpg",
+      image: "/certificates/AI 3.png",
       color: "from-purple-400 to-pink-400",
       issuer: "Udemy - Skool of AI",
       year: "2024",
@@ -376,7 +376,7 @@ const skills = [
     },
     {
       name: "Master Adobe Illustrator: Design Awesome Logos",
-      image: "/certificates/Adobe Illustrator 1.jpg",
+      image: "/certificates/Adobe Illustrator 1.png",
       color: "from-orange-400 to-pink-400",
       issuer: "Udemy - Jawid Firooz",
       year: "2024",
@@ -387,7 +387,7 @@ const skills = [
     },
     {
       name: "Essential Skills in Adobe Photoshop 2024",
-      image: "/certificates/Adobe Photoshop 2.jpg",
+      image: "/certificates/Adobe Photoshop 2.png",
       color: "from-blue-400 to-cyan-400",
       issuer: "LinkedIn Learning - Adobe",
       year: "2025",
