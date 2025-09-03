@@ -891,7 +891,7 @@ const skills = [
 
               <div className="space-y-6 text-white/80 text-lg leading-relaxed">
                 <p>
-                 I'm a passionate and detail-oriented graphic designer with 3+ years of experience, delivering visually
+                 I'm a passionate and detail-oriented graphic designer with 2+ years of experience, delivering visually
                   compelling designs across diverse industries. 
                 </p>
 
