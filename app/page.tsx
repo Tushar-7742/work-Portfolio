@@ -354,7 +354,7 @@ const skills = [
     },
     {
       name: "Professional Diploma in Social Media Marketing",
-      image: "/photo/social1.png",
+      image: "/photo/s1.png", 
       color: "from-pink-400 to-purple-400",
       issuer: "Udemy - MTF Institute",
       year: "2025",
