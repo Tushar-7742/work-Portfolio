@@ -855,7 +855,7 @@ const skills = [
                 <div className="absolute -inset-4 bg-gradient-to-r from-pink-500 via-rose-500 to-orange-500 rounded-3xl blur-xl opacity-30 group-hover:opacity-50 transition-opacity duration-500"></div>
                 <div className="relative bg-black/40 backdrop-blur-xl rounded-3xl p-8 border border-white/10">
                   <img
-                    data-src="/image.png.jpg"
+                    data-src="/profile pic.jpg"
                     alt="About Tushar"
                     className="lazyload w-full h-96 object-contain rounded-2xl"
                   />
